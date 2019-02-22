@@ -1,5 +1,5 @@
 # Goal
-To build a recommendation system that can recommend beers based on previous user's ratings from beeradvocate.com.
+To build a user-to-user recommendation system that can recommend beers based on previous user's ratings from beeradvocate.com.
 
 # Overview
 The craft beer scene has exploded in recent years with microbreweries and major beer suppliers now consistently making 

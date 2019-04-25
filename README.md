@@ -1,5 +1,5 @@
 # Goal
-To build a user-to-user recommendation system that can recommend beers based on previous user's ratings from beeradvocate.com.
+To build a collaborative user-to-user recommendation system that can recommend beers based on previous user's ratings from beeradvocate.com.
 
 # Overview
 The craft beer scene has exploded in recent years with microbreweries and major beer suppliers now consistently making 
@@ -60,7 +60,7 @@ Additionally we found which type of beer received the most reviews,
 
 ![alt text](https://github.com/scbronder/beer_recommendations/blob/master/Screen%20Shot%202019-01-24%20at%209.47.25%20AM.png)
 
-the brewery with the most reviews,
+the breweries with the most reviews,
 
 ![alt text](https://github.com/scbronder/beer_recommendations/blob/master/Screen%20Shot%202019-01-24%20at%209.47.39%20AM.png)
 
@@ -68,6 +68,6 @@ which ABV of beer was most frequently reviewed,
 
 ![alt text](https://github.com/scbronder/beer_recommendations/blob/master/Screen%20Shot%202019-01-24%20at%209.50.54%20AM.png)
 
-and the spread of the most reivewd beer types across the most rated breweries.
+and the spread of the most reivewed beer types across the most rated breweries.
 
 ![alt text](https://github.com/scbronder/beer_recommendations/blob/master/Screen%20Shot%202019-01-24%20at%209.48.36%20AM.png)
